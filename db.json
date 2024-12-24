@@ -34,14 +34,14 @@
        	"id": 1,
        	"name": "Plavleniy sir",
        	"photo_url":"https://src.zakaz.atbmarket.com/prodwebp/catalog_product_gal/i13/catalog_product_gal_35243.webp",
-       	"price": 11.20,
+       	"price": 1120,
        	"author_id": 1
        	},
        	  {  
        	"id": 2,
        	"name": "Namazka",
        	"photo_url":"https://src.zakaz.atbmarket.com/prodwebp/catalog_product_gal/i36/catalog_product_gal_79993.webp",
-       	"price": 26.40,
+       	"price": 2640,
        	"author_id": 2
        	},
        	    	  {  
