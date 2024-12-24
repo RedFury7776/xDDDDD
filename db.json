@@ -1,1 +1,63 @@
+{
+	"users":[
+		{
+        "id": 1,
+        "name": "Did",
+        "sirname": "Moroz",
+        "photo_url": "https://grozny.tv/storage/images/7305aed9-da07-4072-b2af-a535c1a08d6d.jpg",
+        "balance": "mnogo",
+   }
+   		{
+        "id": 2,
+        "name": "Grinch",
+        "sirname": "Zeleniy",
+        "photo_url": "https://is1-ssl.mzstatic.com/image/thumb/ndYYFPH9QUmaiB34pfha7g/1200x675mf.jpg",
+        "balance": "malo",
+   }
+   		{
+        "id": 3,
+        "name": "Pes",
+        "sirname": "Grinchovik",
+        "photo_url": "https://grozny.tv/storage/images/7305aed9-da07-4072-b2af-a535c1a08d6d.jpg",
+        "balance": "nema",
+   }
+   		{
+        "id": 4,
+        "name": "Bober",
+        "sirname": "Novorichniy",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlPgHBviEuS9AzSlcHF-2e77yu3GQJtuDa4A&s",
+        "balance": "mnogo",
+   }
+	],
+     "products":[
+       {  
+       	"id": 1,
+       	"name": "Plavleniy sir",
+       	"photo_url":"https://src.zakaz.atbmarket.com/prodwebp/catalog_product_gal/i13/catalog_product_gal_35243.webp",
+       	"price": 11.20,
+       	"author_id": 1,
+       	}
+       	  {  
+       	"id": 2,
+       	"name": "Namazka",
+       	"photo_url":"https://src.zakaz.atbmarket.com/prodwebp/catalog_product_gal/i36/catalog_product_gal_79993.webp",
+       	"price": 26.40,
+       	"author_id": 2,
+       	}
+       	    	  {  
+       	"id": 3,
+       	"name": "Konfeta",
+       	"photo_url":"https://content1.rozetka.com.ua/goods/images/big/467886433.jpg",
+       	"price": 249,
+       	"author_id": 3,
+       	}
+       	       	    	  {  
+       	"id": 4,
+       	"name": "Viski",
+       	"photo_url":"https://content.rozetka.com.ua/goods/images/big/426664387.jpg",
+       	"price": 859,
+       	"author_id": 4,
+       	}
 
+     ]
+}
